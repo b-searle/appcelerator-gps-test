@@ -1,0 +1,10 @@
+<Alloy>
+	<Window id="index" class="container">
+		<Button id="startstop">Start GPS Updates</Button>
+		<Label id="coordinates">Coordinates\nwill go here.</Label>
+		<!--<View id="mapView" ns="ti.map" method="createView">
+			<!--<Annotation id="annotation1"/>
+			<Annotation title="Cleveland" latitude="41.4822" longitude="-81.6697"/>
+	</View> -->
+	</Window>
+</Alloy>
