@@ -1,13 +1,16 @@
 ".container": {
+	// Light grey background, vertical view placement.
 	backgroundColor:"#d3d3d3",
 	layout:"vertical"
 },
 "Label": {
+	// Setting sizes and label text color.
 	width: Ti.UI.SIZE,
 	height: Ti.UI.SIZE,
 	color: "#000"
 }, 
 "Button": {
+	// Spacing, width, size, and background colors.
 	top:"3dp",
 	width: Ti.UI.FILL,
 	height: Ti.UI.SIZE,
